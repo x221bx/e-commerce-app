@@ -3,7 +3,11 @@
 Expo (React Native) app for an agri-vet marketplace featuring shopping, education, and delivery tools in English and Arabic. Web/Vite tooling has been stripped out to stay native-only.
 
 ## Demo
-- Watch the walkthrough video (streams on GitHub): [V Shop demo](https://github.com/user-attachments/assets/839093b8-4be2-4056-838e-f5a7e48fa5fe). Download if your browser blocks inline playback.
+- Watch the walkthrough video (streams on GitHub): [V Shop demo
+
+https://github.com/user-attachments/assets/a26f1e2d-175c-4925-9627-70d5b866cfc3
+
+]
 
 ## Features
 - Auth, profile, and preferences persisted via Firebase Auth/Firestore; light/dark theme and RTL-aware UI.
